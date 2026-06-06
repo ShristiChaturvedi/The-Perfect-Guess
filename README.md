@@ -58,7 +58,7 @@ python perfect_guess.py
 
 ## 📸 Screenshot
 
-![The Perfect Guess Game](the perfect guess.png)
+![The Perfect Guess Game](the perfect guess .png)
 
 ## 📚 Concepts Practiced
 
